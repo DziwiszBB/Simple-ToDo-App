@@ -1,0 +1,20 @@
+# Instructions to Run My To-Do App
+
+1. Clone this repository:
+
+   git clone https://github.com/DziwiszBB/my-todo-app.git
+   cd my-todo-app
+
+2. Make sure you have Python 3 installed.
+
+3. Run the main script:
+
+   python main.py
+
+4. Follow the on-screen menu to:
+   - Add new tasks
+   - View the task list
+   - Mark tasks as complete
+   - Delete completed tasks
+
+Enjoy using your simple To-Do app!
